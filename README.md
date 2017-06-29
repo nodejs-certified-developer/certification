@@ -34,14 +34,6 @@ will be able to hit the ground running with Node.js professionally.
   - September 2017
 - [ ] Review for Node.js version updates and exposure(every month)
 
-1 week – alpha test a select few items with 3-5 candidates, check timing, environment, directions
-3 weeks – code up test, cut score determination
-1 week – Beta test with 1 or 2 locations (30 candidates)
-1 week – analyze Beta results
-1 week – revise test
-2 weeks – Quality Assurance
-ROLLOUT!
-
 **Please see [this](https://github.com/nodejs-certified-developer/certification/blob/master/ITEM_WRITING.MD#item-writing) for activity specific to the active item writing development phase.**  
   
 ------------
