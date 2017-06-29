@@ -57,15 +57,28 @@ Time commitment for the Item Writing team:
 2 weeks – Currently – create two item templates for Node.js  
 1 week  – conduct 3 webinars for author training  
 3 weeks – April 25 - May 15 –  time for authors to submit items  
-1 week –  May 15 - 22  –  review items & assemble preliminary test  
-… see where we are to schedule the remaining events  
-1 week – alpha test a select few items with 3-5 candidates, check timing, environment, directions  
-3 weeks – code up test, cut score determination  
-1 week – Beta test with 1 or 2 locations (30 candidates)  
-1 week – analyze Beta results  
-1 week – revise test  
-2 weeks – Quality Assurance   
-ROLLOUT!
+1 week –  May 15 - 22  –  review items & assemble preliminary test 
+  
+**UPDATED TIMELINE**
+- [x] Preliminary user/market research, project planning, and JTA recruitment
+  - May - September 2016
+- [x] JTA workshop to establish domains and weighting
+  - December 2016
+- [x] Determine and procure infrastructure partner
+  - January - March 2017
+- [x] Item Writing recruitment and development(ongoing)
+  - April - Current 2017 
+- [ ] Alpha testing
+  - July 2017
+- [ ] Beta testing(early access) and establish cut score
+  - July 2017
+- [ ] QA testing
+  - August 2017
+- [ ] Soft launch
+  - August 2017
+- [ ] Shipped
+  - September 2017
+- [ ] Review for Node.js version updates and exposure(every month)
 
 ### ITEM WRITING
 Item writing development occurs in GitHub and is tested in a sandbox within the HackerRank infrastructure, where the in-browser hosted Node.js environment will live for the Node.js Certified Developer exam. We’ll be backing up all items as private repositories in GitHub. A repository has been established with tight permissions to account for atomic work and allow for item writers to not be exposed to so many exam items that they themselves could not certify.
