@@ -69,15 +69,15 @@ Time commitment for the Item Writing team:
 - [x] Item Writing recruitment and development(ongoing)
   - April - Current 2017 
 - [ ] Alpha testing
-  - July 2017
+  - August - September 2017
 - [ ] Beta testing(early access) and establish cut score
-  - July 2017
-- [ ] QA testing
-  - August 2017
-- [ ] Soft launch
-  - August 2017
-- [ ] Shipped
   - September 2017
+- [ ] QA testing
+  - September 2017
+- [ ] Soft launch
+  - October 2017
+- [ ] Shipped
+  - October 2017
 - [ ] Review for Node.js version updates and exposure(every month)
 
 ### ITEM WRITING
