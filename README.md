@@ -23,16 +23,18 @@ will be able to hit the ground running with Node.js professionally.
 - [x] Item Writing recruitment and development(ongoing)
   - April - Current 2017 
 - [ ] Alpha testing
-  - August 2017
-- [ ] Beta testing(early access) and establish cut score
-  - August - September 2017
+  - December 2017
+- [ ] Beta I: early access, 40 candidates
+  - January 2018
+- [ ] Beta II and establish cut score: 100 candidates
+  - February 2018
 - [ ] QA testing
-  - September 2017
-- [ ] Soft launch
-  - September 2017
-- [ ] Shipped
-  - October 4, 2017 at Node Interactive
-- [ ] Review for Node.js version updates and exposure(every month)
+  - March 2018
+- [ ] General Release
+  - March 2018
+- [ ] Review for Node.js bugs and exposure(every month)
+- [ ] Workshop to revise for LTS update and exposure
+  - October 2018
 
 **Please see [this](https://github.com/nodejs-certified-developer/certification/blob/master/ITEM_WRITING.MD#item-writing) for activity specific to the active item writing development phase.**  
   
