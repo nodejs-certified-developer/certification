@@ -69,17 +69,19 @@ Time commitment for the Item Writing team:
 - [x] Item Writing recruitment and development(ongoing)
   - April - Current 2017 
 - [ ] Alpha testing
-  - August - September 2017
-- [ ] Beta testing(early access) and establish cut score
-  - September 2017
+  - December 2017
+- [ ] Beta I: early access, 40 candidates
+  - January 2018
+- [ ] Beta II and establish cut score: 100 candidates
+  - February 2018
 - [ ] QA testing
-  - September 2017
-- [ ] Soft launch
-  - October 2017
-- [ ] Shipped
-  - October 2017
-- [ ] Review for Node.js version updates and exposure(every month)
-
+  - March 2018
+- [ ] General Release
+  - March 2018
+- [ ] Review for Node.js bugs and exposure(every month)
+- [ ] Workshop to revise for LTS update and exposure
+  - October 2018
+  
 ### ITEM WRITING
 Item writing development occurs in GitHub and is tested in a sandbox within the HackerRank infrastructure, where the in-browser hosted Node.js environment will live for the Node.js Certified Developer exam. We’ll be backing up all items as private repositories in GitHub. A repository has been established with tight permissions to account for atomic work and allow for item writers to not be exposed to so many exam items that they themselves could not certify.
 
