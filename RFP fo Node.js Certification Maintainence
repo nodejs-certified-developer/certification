@@ -1,10 +1,10 @@
 # Overview 
 
-As the launch of The Node.js Certification examp goes ito alpha we are trying to idenfity the appropriate reosurces to maintain the certification exam in the long-term. We are gathering requirements for maintain the exam and define the requirents of a Technical Certification Maintainer. Requirements will be discussed among a group of collaborators, Node.js Foundation members and the Node.js Foundation personnel and contractors. 
+As the launch of The Node.js Certification exam goes into alpha we are trying to idenfity the appropriate resources to maintain the certification exam in the long-term. We are gathering requirements for maintain the exam and define the requirements of a Technical Certification Maintainer. Requirements will be discussed among a group of collaborators, Node.js Foundation members and the Node.js Foundation personnel and contractors. 
 
 # General Requirements
 
-* Respond to an correct technical bugs in the alpha-test and subsequent versions of the Node.js tests and releases and upload into the hosting environment. 
+* Respond to correct technical bugs in the alpha-test and subsequent versions of the Node.js tests and releases and upload into the hosting environment. 
 * Incorporate changes to reflect updates to latest the latest Node.js LTS version
 * Take feedback from a collaborative group of reviewers 
 * Meet technical support service levels for Node.js Certified Developer program
