@@ -1,0 +1,15 @@
+Last updated April 3, 2018
+
+The Node.js Certified Developer (NCD) designation is desgined to provide a vendor agnostic evaluation of the capabilities of a developer to develop Node.js this means a  Node.js Certified Developers can work proficiently in JavaScript with the Node.js platform to build, debug, test and maintain secure framework-independent applications and CLI tools.  They are capable of handling asynchronous I/O effectively and efficiently to manipulate, transform and persist various data using HTTP, files, streams, and multiple processes.  They can leverage and integrate 3rd party modules effectively.  
+
+The certification program aims to establish a baseline for competency in Node.js. While not an expert in all areas, developers who pass the certification will be able to hit the ground running with Node.js professionally.
+
+Node.js Foundation is worked closely with The Linux Foundation to create the blueprint and process for administering the program. The Linux Foundation offers a neutral home for running training and certification programs, thanks to its close involvement with the open source community. It offers several open online courses (MOOCs), including an Intro to Linux, Intro to DevOps: Transforming and Improving Operations; Developing Applications for Linux; Kubernetes Fundamentals; among many others.
+
+Current status of the NCD (April 2018) 
+
+We are currently working to test and make sure the testing environment is conducive to effective administration of the Node.js Developer Certification test. 
+
+If you have signed up to participate as part of the beta we will contact you as soon as possible for you to take the NCD. Or if you'd like to sign-up for early access you can do so here - https://docs.google.com/forms/d/e/1FAIpQLSfCGtf0dDqYSFOzTZQANzjKOqvZn0g2-s7nVvQzmwRfIiotxA/viewform 
+
+To stay informed on the latest updates around the Node.js Certification we suggest you watch this repo on Github. 
