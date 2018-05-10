@@ -13,28 +13,6 @@ The certification program aims to establish a baseline for competency in
 Node.js. While not an expert in all areas, developers who pass the certification
 will be able to hit the ground running with Node.js professionally.
 
-**UPDATED TIMELINE**
-- [x] Preliminary user/market research, project planning, and JTA recruitment
-  - May - September 2016
-- [x] JTA workshop to establish domains and weighting
-  - December 2016
-- [x] Determine and procure infrastructure partner
-  - January - March 2017
-- [x] Item Writing recruitment and development(ongoing)
-  - April - Current 2017 
-- [ ] Alpha testing
-  - December 2017
-- [ ] Beta I: early access, 40 candidates
-  - January 2018
-- [ ] Beta II and establish cut score: 100 candidates
-  - February 2018
-- [ ] QA testing
-  - March 2018
-- [ ] General Release
-  - March 2018
-- [ ] Review for Node.js bugs and exposure(every month)
-- [ ] Workshop to revise for LTS update and exposure
-  - October 2018
 
 **Please see [this](https://github.com/nodejs-certified-developer/certification/blob/master/ITEM_WRITING.MD#item-writing) for activity specific to the active item writing development phase.**  
   
