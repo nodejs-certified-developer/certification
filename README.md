@@ -168,7 +168,7 @@ A subset of these will be provided as part of the isolated exam environment.
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [HTTP – the Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
 - [HTTP Developer’s Handbook](https://www.amazon.com/gp/search?index=books&linkCode=qs&keywords=9780672324543)
-- [Node Cookbook](https://www.packtpub.com/web-development/node-cookbook-second-edition)
+- [Node Cookbook, 3rd Ed.](https://www.amazon.co.uk/Node-Cookbook-Actionable-solutions-development/dp/178588008X)
 - [Node Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
 - [Node.js in Action](https://www.manning.com/books/node-js-in-action-second-edition)
 - [Node.js the Right Way](https://pragprog.com/book/jwnode/node-js-the-right-way)
